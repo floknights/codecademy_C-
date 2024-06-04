@@ -1,2 +1,2 @@
-hello_world.cpp = practicing print statements  
-currency.cpp = practicing user input & print statements  
+hello_world.cpp = practicing output  
+currency.cpp = practicing user input, operators & output  
